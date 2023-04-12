@@ -5,9 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:kittenbot/pxt-neopixel",
-        "SensorPlus": "github:kittenbothk/pxt-moduleplus"
-    },
+        "neopixel": "github:microsoft/pxt-neopixel"
+        },
     "files": [
         "README.md",
         "main.ts",
